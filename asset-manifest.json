@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Cafe-shop/static/css/main.6a586ae7.css",
+    "main.js": "/Cafe-shop/static/js/main.fc275364.js",
+    "static/js/453.e3bcbf64.chunk.js": "/Cafe-shop/static/js/453.e3bcbf64.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Cafe-shop/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/menu-bg.jpg": "/Cafe-shop/static/media/menu-bg.5464c5d0cb1fd2830782.jpg",
+    "static/media/book-bg.jpg": "/Cafe-shop/static/media/book-bg.f21363575b61e6b773a0.jpg",
+    "static/media/home-bg.jpg": "/Cafe-shop/static/media/home-bg.6bc85cdccbd4847e5173.jpg",
+    "static/media/fa-brands-400.ttf": "/Cafe-shop/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/Cafe-shop/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/Cafe-shop/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/Cafe-shop/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/fa-regular-400.woff2": "/Cafe-shop/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Cafe-shop/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Cafe-shop/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "index.html": "/Cafe-shop/index.html",
+    "main.6a586ae7.css.map": "/Cafe-shop/static/css/main.6a586ae7.css.map",
+    "main.fc275364.js.map": "/Cafe-shop/static/js/main.fc275364.js.map",
+    "453.e3bcbf64.chunk.js.map": "/Cafe-shop/static/js/453.e3bcbf64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a586ae7.css",
+    "static/js/main.fc275364.js"
+  ]
+}
